@@ -1,4 +1,4 @@
-# Subhana Collections - Premium Women's Boutique Website
+# Demo Collections - Premium Clothes Website
 
 A luxurious e-commerce website for premium Muslim clothing, designer sarees, and elegant modest wear. Built with HTML, CSS, and JavaScript.
 
